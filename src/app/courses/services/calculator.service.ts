@@ -21,7 +21,5 @@ export class CalculatorService {
     this.logger.log("Subtraction operation called");
     return n1 - n2;
   }
-
-
 }
 
